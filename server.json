@@ -47,6 +47,14 @@
       "category": "Entretenimento",
       "price": 29.99,
       "createdAt": "2023-01-23T19:30:44.505Z"
+    },
+    {
+      "id": 6,
+      "description": "HBO",
+      "type": "outcome",
+      "category": "Entretenimento",
+      "price": 18.95,
+      "createdAt": "2023-01-23T19:30:44.505Z"
     }
   ]
 }
