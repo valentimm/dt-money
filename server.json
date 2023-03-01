@@ -55,6 +55,22 @@
       "category": "Entretenimento",
       "price": 18.95,
       "createdAt": "2023-01-23T19:30:44.505Z"
+    },
+    {
+      "description": "Mesa",
+      "price": 613,
+      "category": "Móvel",
+      "type": "outcome",
+      "createdAt": "2023-03-01T02:27:22.079Z",
+      "id": 8
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 5000,
+      "category": "Freelancer",
+      "type": "income",
+      "createdAt": "2023-03-01T02:39:06.872Z",
+      "id": 9
     }
   ]
 }
